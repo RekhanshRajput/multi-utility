@@ -1,0 +1,3 @@
+zxcvbn
+speedtest-cli
+psutil
